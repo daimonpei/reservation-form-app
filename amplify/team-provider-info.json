@@ -10,6 +10,11 @@
       "StackName": "amplify-reservationformapp-dev-234614",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:931946226506:stack/amplify-reservationformapp-dev-234614/8ddfdb60-82d0-11ed-8e08-0ee8cd6335db",
       "AmplifyAppId": "ds5g2kv0i9rnb"
+    },
+    "categories": {
+      "api": {
+        "reservationformapp": {}
+      }
     }
   }
 }
